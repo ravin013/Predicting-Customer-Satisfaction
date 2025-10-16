@@ -1,0 +1,1 @@
+Project contains a model and EDA to predict whether a customer is unhappy or happy with their delivery based on various factors from a survey where they rate their satisfaction from 1 through 5 answering 6 different questions.
